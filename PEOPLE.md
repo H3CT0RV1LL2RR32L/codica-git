@@ -1,1 +1,0 @@
-Hola, Códica! Haskell Curry
